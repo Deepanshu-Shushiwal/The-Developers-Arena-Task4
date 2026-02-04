@@ -1,4 +1,3 @@
-# The-Developers-Arena-Task4
 # E-Commerce Sales Analysis
 
 ## Description
